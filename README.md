@@ -20,7 +20,7 @@ The dashboard provides:
 
 ### 🧩 Project Schema
 The data model built in Power BI connecting multiple fact and dimension tables.  
-![Project Schema](Project Schema.png)
+![Project Schema](https://github.com/Hassan-1-1/Power-BI-Sales-Dashboard-Project/blob/main/Screenshots/Project%20Schema.png)
 
 ### 📈 Page 1 — Sales Insights
 Overview of total revenue, quantity sold, and customer trends.  
@@ -28,15 +28,15 @@ Overview of total revenue, quantity sold, and customer trends.
 
 ### 💰 Page 2 — Profit Analysis
 Detailed analysis of profit margins, cost, and revenue breakdowns.  
-![Profit Analysis](Page_2%20Profit%20Analysis.png)
+![Profit Analysis](https://github.com/Hassan-1-1/Power-BI-Sales-Dashboard-Project/blob/main/Screenshots/Page_2%20Profit%20Analysis.png)
 
 ### 🌍 Page 3 — Regional Insights
 Comparison of performance across different regions.  
-![Regional Insights](Page_3%20Regional%20Insights.png)
+![Regional Insights](https://github.com/Hassan-1-1/Power-BI-Sales-Dashboard-Project/blob/main/Screenshots/Page_3%20Regional%20Insights.png)
 
 ### 🚀 Published Project
 Snapshot of the published Power BI dashboard.  
-![Published Project](Published%20Project.png)
+![Published Project](https://github.com/Hassan-1-1/Power-BI-Sales-Dashboard-Project/blob/main/Screenshots/Published%20Project.png)
 
 ---
 
