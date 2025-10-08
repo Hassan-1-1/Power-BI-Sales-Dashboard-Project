@@ -20,11 +20,11 @@ The dashboard provides:
 
 ### 🧩 Project Schema
 The data model built in Power BI connecting multiple fact and dimension tables.  
-![Project Schema](Project%20Schema.png)
+![Project Schema](Project Schema.png)
 
 ### 📈 Page 1 — Sales Insights
 Overview of total revenue, quantity sold, and customer trends.  
-![Sales Insights](Page_1%20Sales%20Insights.png)
+![Sales Insights](https://github.com/Hassan-1-1/Power-BI-Sales-Dashboard-Project/blob/main/Screenshots/Page_1%20Sales%20Insights.png)
 
 ### 💰 Page 2 — Profit Analysis
 Detailed analysis of profit margins, cost, and revenue breakdowns.  
