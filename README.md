@@ -42,7 +42,7 @@ Snapshot of the published Power BI dashboard.
 
 ## ⚙️ Tools Used
 - **Power BI Desktop** for visualization and modeling  
-- **Microsoft Excel / SQL** for data preparation  
+- **MySQL** for data preparation  
 - **DAX (Data Analysis Expressions)** for calculated measures  
 
 ---
@@ -60,5 +60,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### 👨‍💻 Author
-**Hassan** — Data Scientist | Analyst | Engineer  
-> Passionate about turning raw data into actionable insights through analytics and visualization.
+**Mubashir Hassan**
+> Data Scientist | Analyst | Engineer
